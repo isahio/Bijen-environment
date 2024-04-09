@@ -1,4 +1,4 @@
-name: bijen
+name: lol
 channels:
   - conda-forge
 dependencies:
