@@ -13,7 +13,7 @@ Je kan de installatie verifiëren door te kijken of je terminal zoiets als (base
 
 Met de nieuwe terminal, run de commands zoals volgt: (BELANGRIJK: niet alles tegelijk maar stap voor stap!!)
 
-curl [https://raw.githubusercontent.com/isahio/bijen-environment/main/environment.env](https://github.com/isahio/Bijen-environment/blob/main/environment.env) > environment.yml
+curl [https://raw.githubusercontent.com/isahio/bijen-environment/main/environment.yml](https://github.com/isahio/Bijen-environment/blob/main/environment.yml) > environment.yml
 
 conda install -n base conda-libmamba-solver
 
