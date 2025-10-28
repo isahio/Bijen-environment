@@ -21,9 +21,7 @@ dependencies:
   - sqlite
   - pyreadstat
   - tensorflow
-  - pytorch
   - keras
   - spacy
   - fastai
   - transformers
-  - theano
