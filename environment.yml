@@ -4,24 +4,22 @@ channels:
 dependencies:
   - python=3.13
   - numpy
-  - scipy
   - pandas
+  - scipy
   - scikit-learn
   - scikit-image
-  - nltk
   - matplotlib
   - seaborn
-  - ipywidgets
-  - beautifulsoup4
+  - nltk
   - requests
+  - beautifulsoup4
   - opencv
-  - pip
   - jupyter
   - nbclassic
   - sqlite
   - pyreadstat
-  - tensorflow
-  - keras
   - spacy
-  - fastai
-  - transformers
+  - ipywidgets
+  - pip
+  - pip:
+      - transformers
