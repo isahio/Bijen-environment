@@ -12,6 +12,8 @@ dependencies:
   - seaborn
   - nltk
   - requests
+  - aiohttp
+  - asyncio
   - beautifulsoup4
   - opencv
   - jupyter
